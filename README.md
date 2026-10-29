@@ -6,6 +6,8 @@ Low-cost cold plate test rig for EV battery / power-electronics cooling. An **Ar
 - **Measured:** inlet/outlet coolant flow, inlet/outlet coolant temperature (pressure inlet/outlet: optional)
 - **Calculated:** coolant temperature rise ΔT, heat removal rate Q̇ = ṁ · Cₚ · (T_out − T_in), pressure drop ΔP = P_in − P_out
 
+> 📘 **New to electronics?** Read the **[Beginner Hardware Guide](docs/HARDWARE_GUIDE.md)**: parts, how each component works, step-by-step wiring, plumbing, uploading, testing and troubleshooting.
+
 ---
 
 ## Project Layout
